@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+guid: fa2294c2c8fb14778951ae60769d9442
+=======
+<<<<<<< HEAD:Assets/Spines/ReceiveChip/skeleton_SkeletonData.asset.meta
+guid: 1e44902583e2a443ca1c5727983961d6
+=======
+guid: fa2294c2c8fb14778951ae60769d9442
+>>>>>>> 846190ea0aec953eb5c342753fc479e6d0050450:Assets/Sprites/Vertical/gameview/SlotCommon/Big/skeleton_SkeletonData.asset.meta
+>>>>>>> 846190ea0aec953eb5c342753fc479e6d0050450
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

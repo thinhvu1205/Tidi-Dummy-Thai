@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+guid: b8de9adedd1544d42b95f12d69022069
+=======
+<<<<<<< HEAD:Assets/Spines/streak/skeleton.json.meta
+guid: b93412df6712c4c5c841b3b6cd78eca1
+=======
+guid: b8de9adedd1544d42b95f12d69022069
+>>>>>>> 846190ea0aec953eb5c342753fc479e6d0050450:Assets/Sprites/Vertical/gameview/SlotCommon/Big/skeleton.json.meta
+>>>>>>> 846190ea0aec953eb5c342753fc479e6d0050450
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

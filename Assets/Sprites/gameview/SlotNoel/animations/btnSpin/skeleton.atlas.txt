@@ -1,0 +1,118 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1l
+  rotate: false
+  xy: 574, 871
+  size: 127, 87
+  orig: 127, 130
+  offset: 0, 19
+  index: -1
+3light
+  rotate: true
+  xy: 294, 796
+  size: 97, 115
+  orig: 100, 116
+  offset: 1, 0
+  index: -1
+4light
+  rotate: false
+  xy: 411, 763
+  size: 142, 112
+  orig: 143, 143
+  offset: 1, 15
+  index: -1
+cong
+  rotate: false
+  xy: 703, 869
+  size: 226, 89
+  orig: 226, 89
+  offset: 0, 0
+  index: -1
+rec
+  rotate: false
+  xy: 2, 641
+  size: 205, 169
+  orig: 208, 169
+  offset: 3, 0
+  index: -1
+rec freespin
+  rotate: false
+  xy: 209, 592
+  size: 226, 169
+  orig: 226, 169
+  offset: 0, 0
+  index: -1
+rec stop
+  rotate: false
+  xy: 437, 565
+  size: 226, 169
+  orig: 226, 169
+  offset: 0, 0
+  index: -1
+sang
+  rotate: false
+  xy: 555, 736
+  size: 133, 133
+  orig: 135, 135
+  offset: 1, 2
+  index: -1
+sang rfeespin
+  rotate: false
+  xy: 690, 734
+  size: 133, 133
+  orig: 135, 135
+  offset: 1, 2
+  index: -1
+sang stop
+  rotate: false
+  xy: 825, 734
+  size: 133, 133
+  orig: 135, 135
+  offset: 1, 2
+  index: -1
+txt freespin
+  rotate: false
+  xy: 2, 814
+  size: 124, 96
+  orig: 124, 96
+  offset: 0, 0
+  index: -1
+txt freespin my
+  rotate: false
+  xy: 2, 912
+  size: 147, 46
+  orig: 147, 46
+  offset: 0, 0
+  index: -1
+txt spin
+  rotate: false
+  xy: 426, 877
+  size: 146, 81
+  orig: 146, 81
+  offset: 0, 0
+  index: -1
+txt spin my
+  rotate: false
+  xy: 128, 812
+  size: 164, 91
+  orig: 164, 99
+  offset: 0, 0
+  index: -1
+txt stop
+  rotate: false
+  xy: 151, 905
+  size: 151, 53
+  orig: 151, 53
+  offset: 0, 0
+  index: -1
+txt stop my
+  rotate: false
+  xy: 304, 895
+  size: 120, 63
+  orig: 120, 63
+  offset: 0, 0
+  index: -1

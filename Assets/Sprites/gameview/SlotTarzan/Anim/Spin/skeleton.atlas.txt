@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 1060,1060
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+go
+  rotate: false
+  xy: 2, 645
+  size: 461, 413
+  orig: 466, 417
+  offset: 2, 2
+  index: -1
+rec duoi
+  rotate: true
+  xy: 465, 381
+  size: 327, 294
+  orig: 330, 296
+  offset: 1, 2
+  index: -1
+rec duoi b
+  rotate: true
+  xy: 2, 316
+  size: 327, 294
+  orig: 330, 296
+  offset: 1, 2
+  index: -1
+rec duoi r
+  rotate: false
+  xy: 437, 85
+  size: 327, 294
+  orig: 330, 296
+  offset: 1, 2
+  index: -1
+text_spin
+  rotate: true
+  xy: 298, 342
+  size: 301, 137
+  orig: 301, 137
+  offset: 0, 0
+  index: -1
+text_stop
+  rotate: false
+  xy: 2, 183
+  size: 243, 131
+  orig: 245, 132
+  offset: 1, 1
+  index: -1
+txt
+  rotate: true
+  xy: 298, 108
+  size: 232, 133
+  orig: 234, 133
+  offset: 1, 0
+  index: -1
+txt1
+  rotate: true
+  xy: 761, 396
+  size: 312, 78
+  orig: 314, 79
+  offset: 1, 1
+  index: -1
+txt2
+  rotate: false
+  xy: 2, 2
+  size: 255, 104
+  orig: 258, 105
+  offset: 2, 1
+  index: -1
+txt_freespin
+  rotate: true
+  xy: 778, 762
+  size: 296, 103
+  orig: 299, 104
+  offset: 2, 1
+  index: -1
+vet2
+  rotate: true
+  xy: 2, 110
+  size: 71, 183
+  orig: 71, 183
+  offset: 0, 0
+  index: -1
+vien
+  rotate: true
+  xy: 465, 710
+  size: 348, 311
+  orig: 348, 311
+  offset: 0, 0
+  index: -1

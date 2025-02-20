@@ -1,0 +1,118 @@
+
+skeleton.png
+size: 1779,780
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1650, 359
+  size: 50, 47
+  orig: 50, 48
+  offset: 0, 1
+  index: -1
+3
+  rotate: true
+  xy: 1650, 359
+  size: 50, 47
+  orig: 50, 48
+  offset: 0, 1
+  index: -1
+2
+  rotate: true
+  xy: 1650, 319
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+THE TREASURE IS YOURS_
+  rotate: false
+  xy: 184, 2
+  size: 564, 52
+  orig: 564, 54
+  offset: 0, 2
+  index: -1
+THE TREASURE IS YOURS_Thai
+  rotate: false
+  xy: 710, 56
+  size: 523, 95
+  orig: 525, 97
+  offset: 1, 1
+  index: -1
+You won
+  rotate: false
+  xy: 750, 3
+  size: 213, 51
+  orig: 213, 51
+  offset: 0, 0
+  index: -1
+khung
+  rotate: true
+  xy: 2, 73
+  size: 705, 706
+  orig: 706, 708
+  offset: 1, 2
+  index: -1
+ligh
+  rotate: false
+  xy: 1235, 105
+  size: 79, 46
+  orig: 83, 51
+  offset: 0, 0
+  index: -1
+light tron
+  rotate: false
+  xy: 710, 153
+  size: 626, 625
+  orig: 658, 653
+  offset: 17, 18
+  index: -1
+quang tron
+  rotate: false
+  xy: 1338, 85
+  size: 310, 324
+  orig: 326, 330
+  offset: 8, 3
+  index: -1
+roun
+  rotate: false
+  xy: 1650, 150
+  size: 127, 127
+  orig: 129, 129
+  offset: 1, 1
+  index: -1
+sanng
+  rotate: true
+  xy: 1338, 411
+  size: 367, 360
+  orig: 367, 360
+  offset: 0, 0
+  index: -1
+starr
+  rotate: false
+  xy: 1650, 296
+  size: 23, 21
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+trentxt
+  rotate: false
+  xy: 1235, 50
+  size: 532, 33
+  orig: 532, 33
+  offset: 0, 0
+  index: -1
+trentxt_thai
+  rotate: true
+  xy: 1700, 279
+  size: 499, 69
+  orig: 499, 69
+  offset: 0, 0
+  index: -1
+you won_thai
+  rotate: false
+  xy: 2, 18
+  size: 180, 53
+  orig: 180, 53
+  offset: 0, 0
+  index: -1

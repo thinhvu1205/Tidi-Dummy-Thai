@@ -1,0 +1,68 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+day1
+  rotate: false
+  xy: 2, 759
+  size: 396, 174
+  orig: 424, 180
+  offset: 28, 0
+  index: -1
+day2
+  rotate: true
+  xy: 400, 475
+  size: 306, 454
+  orig: 416, 500
+  offset: 71, 46
+  index: -1
+day3
+  rotate: true
+  xy: 33, 935
+  size: 41, 434
+  orig: 153, 524
+  offset: 62, 90
+  index: -1
+day4
+  rotate: true
+  xy: 518, 846
+  size: 130, 201
+  orig: 138, 317
+  offset: 8, 0
+  index: -1
+la
+  rotate: true
+  xy: 721, 783
+  size: 193, 255
+  orig: 193, 255
+  offset: 0, 0
+  index: -1
+light thoi
+  rotate: false
+  xy: 469, 929
+  size: 47, 47
+  orig: 52, 53
+  offset: 3, 3
+  index: -1
+tron
+  rotate: false
+  xy: 2, 947
+  size: 29, 29
+  orig: 31, 31
+  offset: 1, 1
+  index: -1
+
+skeleton2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tren
+  rotate: false
+  xy: 2, 2
+  size: 720, 739
+  orig: 720, 739
+  offset: 0, 0
+  index: -1

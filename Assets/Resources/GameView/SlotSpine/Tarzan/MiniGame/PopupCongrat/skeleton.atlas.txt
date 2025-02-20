@@ -1,0 +1,137 @@
+
+skeleton.png
+size: 1890,1890
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 123, 1801
+  size: 87, 100
+  orig: 89, 102
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 47, 1824
+  size: 74, 64
+  orig: 75, 65
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 388, 1795
+  size: 98, 93
+  orig: 99, 95
+  offset: 0, 1
+  index: -1
+CONGRATULATION - THAI
+  rotate: false
+  xy: 1074, 1197
+  size: 814, 262
+  orig: 820, 269
+  offset: 4, 3
+  index: -1
+You won
+  rotate: false
+  xy: 2, 1242
+  size: 1070, 217
+  orig: 1075, 224
+  offset: 2, 4
+  index: -1
+day1
+  rotate: false
+  xy: 488, 1755
+  size: 252, 133
+  orig: 252, 133
+  offset: 0, 0
+  index: -1
+hoa
+  rotate: false
+  xy: 742, 1727
+  size: 194, 161
+  orig: 194, 163
+  offset: 0, 2
+  index: -1
+khung
+  rotate: false
+  xy: 643, 506
+  size: 724, 689
+  orig: 724, 689
+  offset: 0, 0
+  index: -1
+ligh
+  rotate: false
+  xy: 225, 1796
+  size: 161, 92
+  orig: 167, 94
+  offset: 6, 1
+  index: -1
+light tron
+  rotate: false
+  xy: 257, 1468
+  size: 292, 285
+  orig: 300, 292
+  offset: 8, 0
+  index: -1
+quang tron
+  rotate: true
+  xy: 2, 623
+  size: 617, 639
+  orig: 651, 659
+  offset: 17, 10
+  index: -1
+roun
+  rotate: false
+  xy: 2, 1541
+  size: 253, 253
+  orig: 257, 257
+  offset: 2, 2
+  index: -1
+starr
+  rotate: false
+  xy: 2, 1846
+  size: 43, 42
+  orig: 45, 44
+  offset: 1, 1
+  index: -1
+text_you_found_the_jungle
+  rotate: false
+  xy: 551, 1461
+  size: 1083, 215
+  orig: 1085, 215
+  offset: 1, 0
+  index: -1
+text_you_found_the_jungle_thai
+  rotate: false
+  xy: 938, 1678
+  size: 920, 210
+  orig: 922, 210
+  offset: 1, 0
+  index: -1
+
+skeleton2.png
+size: 738,738
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sanng
+  rotate: false
+  xy: 2, 16
+  size: 734, 720
+  orig: 734, 720
+  offset: 0, 0
+  index: -1
+
+skeleton3.png
+size: 1444,1444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+day
+  rotate: false
+  xy: 2, 29
+  size: 1440, 1413
+  orig: 1440, 1415
+  offset: 0, 1
+  index: -1

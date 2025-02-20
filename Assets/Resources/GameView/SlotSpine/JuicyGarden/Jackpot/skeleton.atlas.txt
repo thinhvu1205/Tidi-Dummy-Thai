@@ -1,0 +1,209 @@
+
+skeleton.png
+size: 1290,1290
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00/01_00000
+  rotate: false
+  xy: 1078, 953
+  size: 97, 95
+  orig: 280, 280
+  offset: 85, 88
+  index: -1
+00/01_00001
+  rotate: false
+  xy: 723, 342
+  size: 139, 133
+  orig: 280, 280
+  offset: 63, 70
+  index: -1
+00/01_00002
+  rotate: true
+  xy: 1104, 693
+  size: 206, 184
+  orig: 280, 280
+  offset: 29, 48
+  index: -1
+00/01_00003
+  rotate: false
+  xy: 130, 4
+  size: 243, 216
+  orig: 280, 280
+  offset: 12, 34
+  index: -1
+00/01_00004
+  rotate: true
+  xy: 723, 477
+  size: 267, 237
+  orig: 280, 280
+  offset: 2, 26
+  index: -1
+00/01_00005
+  rotate: false
+  xy: 723, 89
+  size: 279, 251
+  orig: 280, 280
+  offset: 0, 21
+  index: -1
+00/01_00006
+  rotate: false
+  xy: 130, 222
+  size: 280, 258
+  orig: 280, 280
+  offset: 0, 20
+  index: -1
+00/01_00007
+  rotate: false
+  xy: 441, 491
+  size: 280, 253
+  orig: 280, 280
+  offset: 0, 25
+  index: -1
+00/01_00008
+  rotate: false
+  xy: 441, 239
+  size: 280, 250
+  orig: 280, 280
+  offset: 0, 28
+  index: -1
+00/01_00009
+  rotate: false
+  xy: 1004, 80
+  size: 280, 249
+  orig: 280, 280
+  offset: 0, 27
+  index: -1
+box_blue
+  rotate: false
+  xy: 604, 1170
+  size: 574, 118
+  orig: 574, 118
+  offset: 0, 0
+  index: -1
+box_green
+  rotate: false
+  xy: 604, 1050
+  size: 574, 118
+  orig: 574, 118
+  offset: 0, 0
+  index: -1
+box_pinl
+  rotate: false
+  xy: 502, 930
+  size: 574, 118
+  orig: 574, 118
+  offset: 0, 0
+  index: -1
+box_red
+  rotate: false
+  xy: 502, 810
+  size: 574, 118
+  orig: 574, 118
+  offset: 0, 0
+  index: -1
+cham
+  rotate: false
+  xy: 412, 452
+  size: 27, 28
+  orig: 30, 30
+  offset: 2, 1
+  index: -1
+gio
+  rotate: false
+  xy: 157, 757
+  size: 343, 352
+  orig: 345, 354
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 864, 384
+  size: 93, 91
+  orig: 100, 100
+  offset: 4, 5
+  index: -1
+hoa
+  rotate: false
+  xy: 2, 1111
+  size: 600, 177
+  orig: 601, 177
+  offset: 0, 0
+  index: -1
+iii
+  rotate: false
+  xy: 157, 482
+  size: 282, 273
+  orig: 300, 292
+  offset: 18, 12
+  index: -1
+jp_grand
+  rotate: true
+  xy: 2, 68
+  size: 422, 62
+  orig: 422, 62
+  offset: 0, 0
+  index: -1
+jp_grand_thai
+  rotate: true
+  xy: 1033, 416
+  size: 392, 69
+  orig: 392, 69
+  offset: 0, 0
+  index: -1
+jp_major
+  rotate: true
+  xy: 66, 70
+  size: 420, 62
+  orig: 420, 62
+  offset: 0, 0
+  index: -1
+jp_major_hthai
+  rotate: true
+  xy: 1180, 901
+  size: 387, 69
+  orig: 387, 69
+  offset: 0, 0
+  index: -1
+jp_mini
+  rotate: true
+  xy: 1175, 331
+  size: 360, 62
+  orig: 360, 62
+  offset: 0, 0
+  index: -1
+jp_mini_thai
+  rotate: true
+  xy: 1104, 363
+  size: 328, 69
+  orig: 328, 69
+  offset: 0, 0
+  index: -1
+jp_minor
+  rotate: false
+  xy: 502, 746
+  size: 414, 62
+  orig: 414, 62
+  offset: 0, 0
+  index: -1
+jp_minor_thai
+  rotate: true
+  xy: 962, 426
+  size: 382, 69
+  orig: 382, 69
+  offset: 0, 0
+  index: -1
+lll
+  rotate: false
+  xy: 375, 142
+  size: 78, 78
+  orig: 86, 86
+  offset: 4, 4
+  index: -1
+wood
+  rotate: true
+  xy: 2, 492
+  size: 617, 153
+  orig: 619, 155
+  offset: 1, 1
+  index: -1

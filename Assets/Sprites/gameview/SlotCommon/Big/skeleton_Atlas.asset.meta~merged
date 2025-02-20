@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+guid: 9ea9210f74302421b97a728caff85a10
+=======
+<<<<<<< HEAD:Assets/Spines/streak/skeleton_Atlas.asset.meta
+guid: 7783779269c004f238bfbf6b77a9b249
+=======
+guid: 9ea9210f74302421b97a728caff85a10
+>>>>>>> 846190ea0aec953eb5c342753fc479e6d0050450:Assets/Sprites/Vertical/gameview/SlotCommon/Big/skeleton_Atlas.asset.meta
+>>>>>>> 846190ea0aec953eb5c342753fc479e6d0050450
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

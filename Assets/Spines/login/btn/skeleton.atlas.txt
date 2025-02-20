@@ -1,0 +1,258 @@
+
+skeleton.png
+size: 1602,1602
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Comp 1/Comp 1_00000
+  rotate: false
+  xy: 2, 1450
+  size: 499, 150
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00001
+  rotate: false
+  xy: 2, 1450
+  size: 499, 150
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00002
+  rotate: false
+  xy: 536, 311
+  size: 427, 150
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00003
+  rotate: false
+  xy: 2, 1298
+  size: 499, 150
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00004
+  rotate: false
+  xy: 503, 1450
+  size: 499, 150
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00005
+  rotate: false
+  xy: 2, 1146
+  size: 499, 150
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00006
+  rotate: false
+  xy: 503, 1298
+  size: 499, 150
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00007
+  rotate: false
+  xy: 1004, 1450
+  size: 499, 150
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00008
+  rotate: false
+  xy: 2, 994
+  size: 499, 150
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00009
+  rotate: false
+  xy: 1004, 1299
+  size: 499, 149
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00010
+  rotate: false
+  xy: 536, 162
+  size: 429, 147
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00011
+  rotate: false
+  xy: 2, 554
+  size: 499, 141
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00012
+  rotate: false
+  xy: 503, 1146
+  size: 499, 150
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00013
+  rotate: false
+  xy: 2, 843
+  size: 499, 149
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00014
+  rotate: false
+  xy: 503, 996
+  size: 499, 148
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00015
+  rotate: false
+  xy: 2, 697
+  size: 499, 144
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00016
+  rotate: false
+  xy: 1037, 428
+  size: 405, 148
+  orig: 500, 150
+  offset: 94, 0
+  index: -1
+Comp 1/Comp 1_00017
+  rotate: false
+  xy: 503, 850
+  size: 499, 144
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00018
+  rotate: false
+  xy: 503, 709
+  size: 499, 139
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00019
+  rotate: false
+  xy: 1004, 864
+  size: 499, 139
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00020
+  rotate: false
+  xy: 965, 315
+  size: 400, 111
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00021
+  rotate: false
+  xy: 1004, 1150
+  size: 499, 147
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00022
+  rotate: false
+  xy: 1004, 1005
+  size: 499, 143
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00023
+  rotate: false
+  xy: 1004, 578
+  size: 411, 146
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00024
+  rotate: false
+  xy: 967, 166
+  size: 411, 147
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00025
+  rotate: false
+  xy: 967, 17
+  size: 411, 147
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00026
+  rotate: false
+  xy: 1004, 726
+  size: 460, 136
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00027
+  rotate: false
+  xy: 2, 402
+  size: 483, 150
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00028
+  rotate: false
+  xy: 536, 17
+  size: 418, 143
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+Comp 1/Comp 1_00029
+  rotate: false
+  xy: 503, 560
+  size: 482, 147
+  orig: 500, 150
+  offset: 0, 0
+  index: -1
+fb
+  rotate: true
+  xy: 1505, 1068
+  size: 532, 95
+  orig: 532, 95
+  offset: 0, 0
+  index: -1
+fb_thai
+  rotate: false
+  xy: 2, 305
+  size: 532, 95
+  orig: 532, 95
+  offset: 0, 0
+  index: -1
+id
+  rotate: false
+  xy: 2, 208
+  size: 532, 95
+  orig: 532, 95
+  offset: 0, 0
+  index: -1
+id_thai
+  rotate: false
+  xy: 2, 111
+  size: 532, 95
+  orig: 532, 95
+  offset: 0, 0
+  index: -1
+play-now
+  rotate: false
+  xy: 2, 14
+  size: 532, 95
+  orig: 532, 95
+  offset: 0, 0
+  index: -1
+play-now_thai
+  rotate: false
+  xy: 503, 463
+  size: 532, 95
+  orig: 532, 95
+  offset: 0, 0
+  index: -1

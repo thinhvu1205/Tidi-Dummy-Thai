@@ -1,0 +1,76 @@
+
+logo.png
+size: 750,750
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black
+  rotate: true
+  xy: 448, 248
+  size: 317, 124
+  orig: 352, 143
+  offset: 18, 11
+  index: -1
+cham
+  rotate: true
+  xy: 575, 348
+  size: 400, 149
+  orig: 404, 154
+  offset: 2, 3
+  index: -1
+cham2
+  rotate: false
+  xy: 2, 2
+  size: 400, 149
+  orig: 404, 154
+  offset: 2, 3
+  index: -1
+dummy
+  rotate: false
+  xy: 2, 567
+  size: 571, 181
+  orig: 573, 183
+  offset: 1, 1
+  index: -1
+ef
+  rotate: false
+  xy: 2, 486
+  size: 341, 79
+  orig: 366, 104
+  offset: 24, 4
+  index: -1
+ef3
+  rotate: false
+  xy: 2, 360
+  size: 124, 124
+  orig: 151, 131
+  offset: 14, 5
+  index: -1
+ef4
+  rotate: false
+  xy: 345, 420
+  size: 63, 145
+  orig: 86, 181
+  offset: 17, 34
+  index: -1
+ef5
+  rotate: true
+  xy: 574, 273
+  size: 73, 142
+  orig: 105, 184
+  offset: 9, 39
+  index: -1
+la bai
+  rotate: false
+  xy: 448, 16
+  size: 268, 230
+  orig: 268, 230
+  offset: 0, 0
+  index: -1
+thaico
+  rotate: false
+  xy: 2, 153
+  size: 444, 193
+  orig: 453, 197
+  offset: 4, 1
+  index: -1

@@ -1,0 +1,412 @@
+
+skeleton.png
+size: 1967,1674
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+044/04_00001
+  rotate: false
+  xy: 922, 1286
+  size: 43, 58
+  orig: 300, 450
+  offset: 224, 326
+  index: -1
+044/04_00002
+  rotate: true
+  xy: 436, 6
+  size: 53, 71
+  orig: 300, 450
+  offset: 207, 297
+  index: -1
+044/04_00003
+  rotate: false
+  xy: 1486, 839
+  size: 115, 238
+  orig: 300, 450
+  offset: 133, 121
+  index: -1
+044/04_00004
+  rotate: false
+  xy: 1631, 1090
+  size: 122, 256
+  orig: 300, 450
+  offset: 110, 102
+  index: -1
+044/04_00005
+  rotate: false
+  xy: 1524, 564
+  size: 132, 273
+  orig: 300, 450
+  offset: 86, 92
+  index: -1
+044/04_00006
+  rotate: false
+  xy: 1484, 1079
+  size: 145, 288
+  orig: 300, 450
+  offset: 62, 89
+  index: -1
+044/04_00007
+  rotate: false
+  xy: 1305, 1054
+  size: 177, 304
+  orig: 300, 450
+  offset: 42, 85
+  index: -1
+044/04_00008
+  rotate: false
+  xy: 392, 61
+  size: 192, 340
+  orig: 300, 450
+  offset: 26, 62
+  index: -1
+044/04_00009
+  rotate: false
+  xy: 195, 30
+  size: 195, 370
+  orig: 300, 450
+  offset: 16, 45
+  index: -1
+044/04_00010
+  rotate: false
+  xy: 2, 9
+  size: 191, 391
+  orig: 300, 450
+  offset: 11, 35
+  index: -1
+044/04_00011
+  rotate: false
+  xy: 546, 1266
+  size: 197, 406
+  orig: 300, 450
+  offset: 9, 28
+  index: -1
+044/04_00012
+  rotate: false
+  xy: 278, 828
+  size: 204, 413
+  orig: 300, 450
+  offset: 9, 26
+  index: -1
+044/04_00013
+  rotate: false
+  xy: 267, 403
+  size: 208, 414
+  orig: 300, 450
+  offset: 11, 27
+  index: -1
+044/04_00014
+  rotate: false
+  xy: 484, 847
+  size: 220, 411
+  orig: 300, 450
+  offset: 5, 30
+  index: -1
+044/04_00015
+  rotate: false
+  xy: 586, 2
+  size: 230, 411
+  orig: 300, 450
+  offset: 1, 32
+  index: -1
+044/04_00016
+  rotate: false
+  xy: 477, 415
+  size: 240, 411
+  orig: 300, 450
+  offset: 1, 33
+  index: -1
+044/04_00017
+  rotate: false
+  xy: 291, 1260
+  size: 253, 412
+  orig: 300, 450
+  offset: 3, 32
+  index: -1
+044/04_00018
+  rotate: false
+  xy: 2, 402
+  size: 263, 415
+  orig: 300, 450
+  offset: 7, 29
+  index: -1
+044/04_00019
+  rotate: false
+  xy: 2, 819
+  size: 274, 422
+  orig: 300, 450
+  offset: 10, 23
+  index: -1
+044/04_00020
+  rotate: false
+  xy: 2, 1243
+  size: 287, 429
+  orig: 300, 450
+  offset: 12, 16
+  index: -1
+Layer 13
+  rotate: false
+  xy: 891, 847
+  size: 88, 89
+  orig: 100, 99
+  offset: 6, 5
+  index: -1
+light
+  rotate: false
+  xy: 786, 833
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+sang/1_00000
+  rotate: true
+  xy: 1286, 19
+  size: 200, 161
+  orig: 200, 161
+  offset: 0, 0
+  index: -1
+sang/1_00001
+  rotate: true
+  xy: 1323, 852
+  size: 200, 161
+  orig: 200, 161
+  offset: 0, 0
+  index: -1
+sang/1_00002
+  rotate: false
+  xy: 1746, 1511
+  size: 200, 161
+  orig: 200, 161
+  offset: 0, 0
+  index: -1
+sang/1_00003
+  rotate: false
+  xy: 1746, 1348
+  size: 200, 161
+  orig: 200, 161
+  offset: 0, 0
+  index: -1
+sang/1_00004
+  rotate: true
+  xy: 1603, 878
+  size: 199, 161
+  orig: 200, 161
+  offset: 1, 0
+  index: -1
+sang/1_00005
+  rotate: false
+  xy: 1766, 859
+  size: 198, 161
+  orig: 200, 161
+  offset: 2, 0
+  index: -1
+sang/1_00006
+  rotate: true
+  xy: 1543, 320
+  size: 198, 161
+  orig: 200, 161
+  offset: 2, 0
+  index: -1
+sang/1_00007
+  rotate: false
+  xy: 1706, 357
+  size: 198, 161
+  orig: 200, 161
+  offset: 2, 0
+  index: -1
+sang/1_00008
+  rotate: false
+  xy: 1766, 1185
+  size: 199, 161
+  orig: 200, 161
+  offset: 1, 0
+  index: -1
+sang/1_00009
+  rotate: false
+  xy: 1706, 194
+  size: 198, 161
+  orig: 200, 161
+  offset: 0, 0
+  index: -1
+sang/1_00010
+  rotate: false
+  xy: 1765, 31
+  size: 198, 161
+  orig: 200, 161
+  offset: 2, 0
+  index: -1
+sang/1_00011
+  rotate: false
+  xy: 1766, 1022
+  size: 199, 161
+  orig: 200, 161
+  offset: 1, 0
+  index: -1
+sang/1_00012
+  rotate: true
+  xy: 1449, 28
+  size: 200, 161
+  orig: 200, 161
+  offset: 0, 0
+  index: -1
+thaidoc/0_00000
+  rotate: false
+  xy: 392, 4
+  size: 42, 55
+  orig: 325, 350
+  offset: 220, 225
+  index: -1
+thaidoc/0_00001
+  rotate: true
+  xy: 509, 8
+  size: 51, 68
+  orig: 325, 350
+  offset: 204, 197
+  index: -1
+thaidoc/0_00002
+  rotate: true
+  xy: 839, 1283
+  size: 61, 81
+  orig: 325, 350
+  offset: 182, 176
+  index: -1
+thaidoc/0_00003
+  rotate: true
+  xy: 745, 1275
+  size: 69, 92
+  orig: 325, 350
+  offset: 159, 164
+  index: -1
+thaidoc/0_00004
+  rotate: false
+  xy: 706, 832
+  size: 78, 104
+  orig: 325, 350
+  offset: 136, 158
+  index: -1
+thaidoc/0_00005
+  rotate: false
+  xy: 1612, 13
+  size: 151, 179
+  orig: 325, 350
+  offset: 117, 95
+  index: -1
+thaidoc/0_00006
+  rotate: false
+  xy: 1118, 4
+  size: 166, 215
+  orig: 325, 350
+  offset: 100, 70
+  index: -1
+thaidoc/0_00007
+  rotate: true
+  xy: 1658, 520
+  size: 169, 246
+  orig: 325, 350
+  offset: 89, 52
+  index: -1
+thaidoc/0_00008
+  rotate: true
+  xy: 1658, 691
+  size: 166, 269
+  orig: 325, 350
+  offset: 82, 41
+  index: -1
+thaidoc/0_00009
+  rotate: false
+  xy: 1584, 1385
+  size: 160, 287
+  orig: 325, 350
+  offset: 79, 33
+  index: -1
+thaidoc/0_00010
+  rotate: true
+  xy: 818, 4
+  size: 173, 298
+  orig: 325, 350
+  offset: 59, 30
+  index: -1
+thaidoc/0_00011
+  rotate: true
+  xy: 1019, 833
+  size: 189, 302
+  orig: 325, 350
+  offset: 41, 31
+  index: -1
+thaidoc/0_00012
+  rotate: false
+  xy: 1115, 221
+  size: 204, 301
+  orig: 325, 350
+  offset: 28, 34
+  index: -1
+thaidoc/0_00013
+  rotate: false
+  xy: 1321, 230
+  size: 220, 299
+  orig: 325, 350
+  offset: 19, 36
+  index: -1
+thaidoc/0_00014
+  rotate: false
+  xy: 1288, 531
+  size: 234, 300
+  orig: 325, 350
+  offset: 15, 37
+  index: -1
+thaidoc/0_00015
+  rotate: false
+  xy: 1333, 1369
+  size: 249, 303
+  orig: 325, 350
+  offset: 13, 35
+  index: -1
+thaidoc/0_00016
+  rotate: false
+  xy: 1024, 524
+  size: 262, 307
+  orig: 325, 350
+  offset: 13, 31
+  index: -1
+thaidoc/0_00017
+  rotate: false
+  xy: 1058, 1360
+  size: 273, 312
+  orig: 325, 350
+  offset: 15, 26
+  index: -1
+thaidoc/0_00018
+  rotate: false
+  xy: 1019, 1024
+  size: 284, 320
+  orig: 325, 350
+  offset: 17, 19
+  index: -1
+thaidoc/0_00019
+  rotate: false
+  xy: 818, 179
+  size: 295, 323
+  orig: 325, 350
+  offset: 15, 16
+  index: -1
+thaidoc/0_00020
+  rotate: false
+  xy: 719, 504
+  size: 303, 326
+  orig: 325, 350
+  offset: 13, 13
+  index: -1
+thaidoc/0_00021
+  rotate: false
+  xy: 745, 1346
+  size: 311, 326
+  orig: 325, 350
+  offset: 10, 13
+  index: -1
+thaidoc/0_00022
+  rotate: false
+  xy: 706, 938
+  size: 311, 326
+  orig: 325, 350
+  offset: 10, 13
+  index: -1

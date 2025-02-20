@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 982,982
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bet time
+  rotate: true
+  xy: 909, 725
+  size: 255, 51
+  orig: 257, 51
+  offset: 1, 0
+  index: -1
+bet time_th
+  rotate: true
+  xy: 839, 656
+  size: 324, 68
+  orig: 324, 68
+  offset: 0, 0
+  index: -1
+ggg
+  rotate: false
+  xy: 2, 87
+  size: 539, 171
+  orig: 572, 179
+  offset: 16, 4
+  index: -1
+ligh
+  rotate: true
+  xy: 798, 121
+  size: 161, 92
+  orig: 167, 94
+  offset: 6, 1
+  index: -1
+open
+  rotate: false
+  xy: 351, 32
+  size: 165, 53
+  orig: 167, 53
+  offset: 1, 0
+  index: -1
+open_th
+  rotate: true
+  xy: 798, 2
+  size: 117, 73
+  orig: 118, 73
+  offset: 0, 0
+  index: -1
+rib
+  rotate: true
+  xy: 738, 554
+  size: 426, 99
+  orig: 428, 99
+  offset: 0, 0
+  index: -1
+roun
+  rotate: false
+  xy: 543, 5
+  size: 253, 253
+  orig: 257, 257
+  offset: 2, 2
+  index: -1
+sanng
+  rotate: false
+  xy: 2, 260
+  size: 734, 720
+  orig: 734, 720
+  offset: 0, 0
+  index: -1
+starr
+  rotate: false
+  xy: 909, 681
+  size: 43, 42
+  orig: 45, 44
+  offset: 1, 1
+  index: -1
+texteng
+  rotate: false
+  xy: 2, 4
+  size: 347, 81
+  orig: 349, 82
+  offset: 1, 1
+  index: -1
+textmyr
+  rotate: true
+  xy: 738, 284
+  size: 268, 92
+  orig: 269, 92
+  offset: 0, 0
+  index: -1

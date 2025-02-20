@@ -1,0 +1,363 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+QUANG TRON
+  rotate: false
+  xy: 548, 792
+  size: 238, 220
+  orig: 256, 228
+  offset: 8, 8
+  index: -1
+Win/Win_00000
+  rotate: true
+  xy: 682, 685
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00027
+  rotate: true
+  xy: 682, 685
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00028
+  rotate: true
+  xy: 682, 685
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00029
+  rotate: true
+  xy: 682, 685
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00030
+  rotate: true
+  xy: 682, 685
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00031
+  rotate: true
+  xy: 682, 685
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00032
+  rotate: true
+  xy: 682, 685
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00033
+  rotate: true
+  xy: 682, 685
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00034
+  rotate: true
+  xy: 682, 685
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00035
+  rotate: true
+  xy: 682, 685
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00036
+  rotate: true
+  xy: 682, 685
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00037
+  rotate: true
+  xy: 682, 685
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00038
+  rotate: true
+  xy: 682, 685
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00039
+  rotate: true
+  xy: 682, 685
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00040
+  rotate: true
+  xy: 682, 685
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00041
+  rotate: true
+  xy: 682, 685
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00042
+  rotate: true
+  xy: 682, 685
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00043
+  rotate: true
+  xy: 682, 685
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00044
+  rotate: true
+  xy: 682, 685
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00001
+  rotate: true
+  xy: 733, 685
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00002
+  rotate: false
+  xy: 784, 707
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00003
+  rotate: false
+  xy: 891, 707
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00004
+  rotate: false
+  xy: 784, 656
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00005
+  rotate: true
+  xy: 682, 578
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00006
+  rotate: true
+  xy: 733, 578
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00007
+  rotate: false
+  xy: 891, 656
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00008
+  rotate: false
+  xy: 784, 605
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00009
+  rotate: false
+  xy: 891, 605
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00010
+  rotate: false
+  xy: 784, 554
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00011
+  rotate: false
+  xy: 891, 554
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00012
+  rotate: false
+  xy: 277, 726
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00013
+  rotate: false
+  xy: 384, 726
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00016
+  rotate: true
+  xy: 491, 670
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00017
+  rotate: false
+  xy: 542, 620
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00018
+  rotate: false
+  xy: 2, 689
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00019
+  rotate: false
+  xy: 109, 689
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00020
+  rotate: true
+  xy: 216, 633
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00021
+  rotate: false
+  xy: 2, 638
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00022
+  rotate: false
+  xy: 109, 638
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00023
+  rotate: false
+  xy: 2, 587
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00024
+  rotate: false
+  xy: 109, 587
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00025
+  rotate: false
+  xy: 267, 675
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win/Win_00026
+  rotate: false
+  xy: 374, 675
+  size: 105, 49
+  orig: 108, 50
+  offset: 2, 1
+  index: -1
+Win_thai
+  rotate: true
+  xy: 649, 598
+  size: 71, 30
+  orig: 71, 30
+  offset: 0, 0
+  index: -1
+king
+  rotate: false
+  xy: 267, 621
+  size: 90, 52
+  orig: 92, 52
+  offset: 1, 0
+  index: -1
+light
+  rotate: false
+  xy: 548, 671
+  size: 132, 119
+  orig: 132, 133
+  offset: 0, 14
+  index: -1
+light tron
+  rotate: false
+  xy: 2, 740
+  size: 273, 272
+  orig: 294, 290
+  offset: 9, 9
+  index: -1
+quang
+  rotate: false
+  xy: 277, 777
+  size: 269, 235
+  orig: 286, 271
+  offset: 15, 13
+  index: -1
+star
+  rotate: false
+  xy: 996, 997
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+vet
+  rotate: true
+  xy: 788, 758
+  size: 254, 206
+  orig: 262, 250
+  offset: 2, 26
+  index: -1

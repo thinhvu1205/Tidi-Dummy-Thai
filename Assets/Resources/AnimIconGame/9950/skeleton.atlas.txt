@@ -1,0 +1,132 @@
+
+skeleton.png
+size: 715,715
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 504, 437
+  size: 198, 276
+  orig: 198, 276
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 382
+  size: 500, 331
+  orig: 500, 414
+  offset: 0, 0
+  index: -1
+eye_left
+  rotate: true
+  xy: 690, 218
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+eye_right
+  rotate: false
+  xy: 690, 238
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 504, 172
+  size: 184, 263
+  orig: 185, 263
+  offset: 1, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 49
+  size: 331, 412
+  orig: 331, 412
+  offset: 0, 0
+  index: -1
+longmay
+  rotate: false
+  xy: 2, 7
+  size: 131, 40
+  orig: 131, 42
+  offset: 0, 0
+  index: -1
+moi1
+  rotate: true
+  xy: 556, 27
+  size: 83, 60
+  orig: 83, 60
+  offset: 0, 0
+  index: -1
+moi2
+  rotate: false
+  xy: 244, 9
+  size: 82, 38
+  orig: 82, 38
+  offset: 0, 0
+  index: -1
+phai_duoi
+  rotate: true
+  xy: 690, 329
+  size: 53, 18
+  orig: 54, 21
+  offset: 0, 0
+  index: -1
+phai_tren
+  rotate: true
+  xy: 690, 384
+  size: 51, 19
+  orig: 51, 20
+  offset: 0, 1
+  index: -1
+tocsau
+  rotate: false
+  xy: 416, 173
+  size: 83, 207
+  orig: 83, 242
+  offset: 0, 35
+  index: -1
+tocsau2
+  rotate: false
+  xy: 416, 6
+  size: 68, 165
+  orig: 69, 165
+  offset: 0, 0
+  index: -1
+trai_duoi
+  rotate: true
+  xy: 690, 295
+  size: 32, 22
+  orig: 34, 26
+  offset: 2, 3
+  index: -1
+trai_tren
+  rotate: true
+  xy: 690, 262
+  size: 31, 21
+  orig: 31, 23
+  offset: 0, 1
+  index: -1
+trongmat
+  rotate: false
+  xy: 135, 8
+  size: 107, 39
+  orig: 108, 40
+  offset: 1, 1
+  index: -1
+txt
+  rotate: true
+  xy: 486, 14
+  size: 156, 68
+  orig: 158, 70
+  offset: 1, 1
+  index: -1
+txt2
+  rotate: false
+  xy: 556, 112
+  size: 147, 58
+  orig: 147, 58
+  offset: 0, 0
+  index: -1
