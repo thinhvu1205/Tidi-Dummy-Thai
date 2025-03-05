@@ -906,7 +906,7 @@
         "txt_score_wl_result": "คะแนนชนะหรือแพ้",
         "txt_pot_result": "หม้อ",
         "txt_chip_wl_result": "ชิปชนะหรือแพ้",
-		"txt_confirm_account_deletion": "คุณแน่ใจหรือไม่ว่าต้องการลบบัญชีของคุณ?",
-		"txt_rewards_vip_farm": "คุณสามารถรับรางวัลได้ใน \"Vip's Farm\"",
+        "txt_confirm_account_deletion": "คุณแน่ใจหรือไม่ว่าต้องการลบบัญชีของคุณ?",
+        "txt_rewards_vip_farm": "คุณสามารถรับรางวัลได้ใน \"Vip's Farm\""
     }
 }

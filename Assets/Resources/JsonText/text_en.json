@@ -904,6 +904,7 @@
 		"txt_score_wl_result": "Score Win/Lose",
 		"txt_pot_result": "POT",
 		"txt_chip_wl_result": "Chip Win/Lose",
-		 "txt_confirm_account_deletion": "Do you want to delete your account and personal data?",
+		"txt_confirm_account_deletion": "Do you want to delete your account and personal data?",
+		"txt_rewards_vip_farm": "You can get rewards in \"Vip's Farm\""
 	}
 }

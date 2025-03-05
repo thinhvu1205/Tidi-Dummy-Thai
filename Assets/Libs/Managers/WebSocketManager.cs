@@ -36,101 +36,101 @@ public class WebSocketManager
         }
 
 
-            Globals.Config.isErrorNet = false;
-            stop();
-            jobsResend.Clear();
+        Globals.Config.isErrorNet = false;
+        stop();
+        jobsResend.Clear();
         //Globals.Config.isSvTest = true;
         //if (Globals.Config.isSvTest)
         //Globals.Config.curServerIp = "app.test.topbangkokclub.com";
         //Globals.Config.curServerIp = "app.test.topbangkokclub.com";
         Debug.Log(" Globals.Config.curServerI=" + Globals.Config.curServerIp);
-            ws = new WebSocket("wss://" + Globals.Config.curServerIp + ":" + Globals.Config.PORT);
-            Globals.Logging.Log("IP CONNECT:" + Globals.Config.curServerIp);
-            connectionStatus = Globals.ConnectionStatus.CONNECTING;
-            ws.ConnectAsync();
-            //ws.Connect();
+        string url = "wss://" + Globals.Config.curServerIp + ":" + Globals.Config.PORT;
+        ws = new WebSocket(url);
+        Globals.Logging.Log("IP CONNECT: " + url);
+        connectionStatus = Globals.ConnectionStatus.CONNECTING;
+        ws.ConnectAsync();
+        //ws.Connect();
+        ws.EmitOnPing = true;
+        ws.WaitTime = TimeSpan.FromSeconds(10); ;
 
-            ws.EmitOnPing = true;
-            ws.WaitTime = TimeSpan.FromSeconds(10); ;
-
-            ws.OnError += (sender, e) =>
+        ws.OnError += (sender, e) =>
+        {
+            if (connectionStatus == Globals.ConnectionStatus.DISCONNECTED) return;
+            connectionStatus = Globals.ConnectionStatus.DISCONNECTED;
+            Globals.Logging.Log("OnError ");
+            UnityMainThread.instance.AddJob(() =>
             {
-                if (connectionStatus == Globals.ConnectionStatus.DISCONNECTED) return;
-                connectionStatus = Globals.ConnectionStatus.DISCONNECTED;
-                Globals.Logging.Log("OnError ");
-                UnityMainThread.instance.AddJob(() =>
+                UIManager.instance.showLoginScreen(false);
+            });
+        };
+        ws.OnClose += (sender, e) =>
+        {
+            if (connectionStatus == Globals.ConnectionStatus.DISCONNECTED) return;
+            connectionStatus = Globals.ConnectionStatus.DISCONNECTED;
+            Globals.Logging.Log("OnClose ");
+            UnityMainThread.instance.AddJob(() =>
+            {
+                UIManager.instance.showLoginScreen(false);
+            });
+        };
+
+        ws.OnOpen += (sender, e) =>
+        {
+            connectionStatus = Globals.ConnectionStatus.CONNECTED;
+            //sendLogin("playforfun", "cuong123");
+            if (callback != null)
+                callback.Invoke();
+
+            while (jobsResend.Count > 0)
+                jobsResend.Dequeue().Invoke();
+        };
+        ws.OnMessage += (sender, e) =>
+        {
+            UnityMainThread.instance.AddJob(() =>
+            {
+                UIManager.instance.hideWatting();
+                //Globals.Logging.Log("-=-=>>>> OnMessage   " + e.Data);
+                JObject data = JObject.Parse(e.Data);
+
+                //{ "screenname":null,"pid":0,"status":"DENIED","code":-3,"message":"Username and Password do not match!","credentials":"","classId":11}
+
+                int cmdId = (int)data["classId"];
+                switch (cmdId)
                 {
-                    UIManager.instance.showLoginScreen(false);
-                });
-            };
-            ws.OnClose += (sender, e) =>
-            {
-                if (connectionStatus == Globals.ConnectionStatus.DISCONNECTED) return;
-                connectionStatus = Globals.ConnectionStatus.DISCONNECTED;
-                Globals.Logging.Log("OnClose ");
-                UnityMainThread.instance.AddJob(() =>
-                {
-                    UIManager.instance.showLoginScreen(false);
-                });
-            };
-
-            ws.OnOpen += (sender, e) =>
-            {
-                connectionStatus = Globals.ConnectionStatus.CONNECTED;
-                //sendLogin("playforfun", "cuong123");
-                if (callback != null)
-                    callback.Invoke();
-
-                while (jobsResend.Count > 0)
-                    jobsResend.Dequeue().Invoke();
-            };
-            ws.OnMessage += (sender, e) =>
-            {
-                UnityMainThread.instance.AddJob(() =>
-                {
-                    UIManager.instance.hideWatting();
-                    //Globals.Logging.Log("-=-=>>>> OnMessage   " + e.Data);
-                    JObject data = JObject.Parse(e.Data);
-
-                    //{ "screenname":null,"pid":0,"status":"DENIED","code":-3,"message":"Username and Password do not match!","credentials":"","classId":11}
-
-                    int cmdId = (int)data["classId"];
-                    switch (cmdId)
-                    {
-                        case Globals.CMD.LOGIN_REPONSE:
-                            HandleData.handleLoginResponse(e.Data);
+                    case Globals.CMD.LOGIN_REPONSE:
+                        HandleData.handleLoginResponse(e.Data);
+                        break;
+                    case Globals.CMD.SERVICE_TRANSPORT:
+                        HandleData.handleServiceTransportPacket(e.Data);
+                        break;
+                    case Globals.CMD.GAME_TRANSPORT:
+                        HandleData.handleGameTransportPacket(e.Data);
+                        break;
+                    case Globals.CMD.FORCE_LOGOUT:
+                        HandleData.handleForcedLogoutPacket(e.Data);
+                        break;
+                    case Globals.CMD.JOIN_RESPONSE:
+                        HandleData.handleJoinResponsePacket(e.Data);
+                        break;
+                    case Globals.CMD.LEAVE_RESPONSE:
+                        HandleData.handleLeaveResponsePacket(e.Data);
+                        break;
+                    case Globals.CMD.PING:
+                        Globals.Logging.Log("PING PONG!!!!");
+                        break;
+                    default:
+                        {
+                            //Globals.Logging.Log("-=-= ko vao ID nao:"+ cmdId);
                             break;
-                        case Globals.CMD.SERVICE_TRANSPORT:
-                            HandleData.handleServiceTransportPacket(e.Data);
-                            break;
-                        case Globals.CMD.GAME_TRANSPORT:
-                            HandleData.handleGameTransportPacket(e.Data);
-                            break;
-                        case Globals.CMD.FORCE_LOGOUT:
-                            HandleData.handleForcedLogoutPacket(e.Data);
-                            break;
-                        case Globals.CMD.JOIN_RESPONSE:
-                            HandleData.handleJoinResponsePacket(e.Data);
-                            break;
-                        case Globals.CMD.LEAVE_RESPONSE:
-                            HandleData.handleLeaveResponsePacket(e.Data);
-                            break;
-                        case Globals.CMD.PING:
-                            Globals.Logging.Log("PING PONG!!!!");
-                            break;
-                        default:
-                            {
-                                //Globals.Logging.Log("-=-= ko vao ID nao:"+ cmdId);
-                                break;
-                            }
-                    }
-                });
-            };
+                        }
+                }
+            });
+        };
     }
 
     public void runConnect()
     {
-        
+
 
     }
 
@@ -149,7 +149,8 @@ public class WebSocketManager
         }
     }
 
-    public bool IsAlive() {
+    public bool IsAlive()
+    {
         return (ws != null && ws.IsAlive);
     }
 
